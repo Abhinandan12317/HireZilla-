@@ -1,0 +1,6 @@
+{
+  "name": "HireZilla",
+  "description": "The monster of hiring — evidence-first resume screening, verifiable student portfolios, and structured AI text interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
